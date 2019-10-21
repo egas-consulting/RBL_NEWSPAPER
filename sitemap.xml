@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://rblnewspaper.ro/index.html</loc>
+    <lastmod>2019-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://rblnewspaper.ro/images/2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rblnewspaper.ro/images/1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rblnewspaper.ro/images/3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rblnewspaper.ro/images/4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rblnewspaper.ro/images/scroll-doar-sageti.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://rblnewspaper.ro/assets/dot.mov</loc>
+    <lastmod>2019-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
