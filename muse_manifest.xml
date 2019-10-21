@@ -1,14 +1,16 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ligiamunteanu.com" resolutions="1x" timestamp="1568199352854">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rblnewspaper.ro" resolutions="1x" timestamp="1571641498931">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="395789672" ref="index"/>
+    <file name="index.css" crc="4223778526" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="dot.mov" crc="274772812" seo="true" mt="1571596018000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="340535759" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="310584261" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
@@ -17,119 +19,22 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="ligia_munteanu.gif" crc="4085180716" seo="true" ref="index">
+    <file name="2.png" crc="4121626230" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.png" crc="3992413043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.png" crc="464092716" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.png" crc="457441447" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="ligia_munteanu_televiziune.gif" crc="109567641" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ligia_munteanu_lifestyle.gif" crc="394235175" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ligia_munteanu_evenimente.gif" crc="400390447" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ligia_munteanu_despre_mine.gif" crc="239294391" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="e5656ac5-f7d1-42d4-9c27-8909c37f6b43_01.jpg" crc="3925863176" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="e5656ac5-f7d1-42d4-9c27-8909c37f6b43_02.jpg" crc="3973988070" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="e5656ac5-f7d1-42d4-9c27-8909c37f6b43_03.jpg" crc="4270457094" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="e5656ac5-f7d1-42d4-9c27-8909c37f6b43_04.jpg" crc="3967161371" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="e5656ac5-f7d1-42d4-9c27-8909c37f6b43_05.jpg" crc="4251000878" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="e5656ac5-f7d1-42d4-9c27-8909c37f6b43_06.jpg" crc="124780550" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="e5656ac5-f7d1-42d4-9c27-8909c37f6b43_07.jpg" crc="4148385472" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="eb57a797-ca53-4b77-acf4-19c79f550377_01.jpg" crc="498929577" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="eb57a797-ca53-4b77-acf4-19c79f550377_02.jpg" crc="4014740376" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="eb57a797-ca53-4b77-acf4-19c79f550377_03.jpg" crc="4275294120" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="eb57a797-ca53-4b77-acf4-19c79f550377_04.jpg" crc="3950901100" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="eb57a797-ca53-4b77-acf4-19c79f550377_05.jpg" crc="463658771" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="eb57a797-ca53-4b77-acf4-19c79f550377_06.jpg" crc="3829803552" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="eb57a797-ca53-4b77-acf4-19c79f550377_07.jpg" crc="319396102" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="eb57a797-ca53-4b77-acf4-19c79f550377_08.jpg" crc="4224868459" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bvb-(websize)-203_02.jpg" crc="4224487047" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bvb-(websize)-203_03.jpg" crc="4056186135" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bvb-(websize)-203_04.jpg" crc="453737724" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bvb-(websize)-203_05.jpg" crc="4057356996" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bvb-(websize)-203_06.jpg" crc="135660024" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bvb-(websize)-203_07.jpg" crc="150311640" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bvb-(websize)-203_08.jpg" crc="4107690007" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bvb-(websize)-203_09.jpg" crc="176648980" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bvb-(websize)-203_10.jpg" crc="4202453864" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="patrat_rad_3383_01.jpg" crc="139774446" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="patrat_rad_3383_02.jpg" crc="4085914493" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="patrat_rad_3383_03.jpg" crc="3898581174" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="patrat_rad_3383_04.jpg" crc="4210424734" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="patrat_rad_3383_05.jpg" crc="327306720" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="patrat_rad_3383_06.jpg" crc="3991621814" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="patrat_rad_3383_07.jpg" crc="4229764110" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="patrat_rad_3383_08.jpg" crc="3899286120" seo="true" ref="index">
+    <file name="scroll-doar-sageti.gif" crc="190600464" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3992963194" seo="true" mt="1567789642806" redirect="true"/>
+  <file name="index.html" crc="467585038" seo="true" mt="1571641442179" redirect="true"/>
 </manifest>
