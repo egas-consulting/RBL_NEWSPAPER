@@ -1,30 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://rblnewspaper.ro/index.html</loc>
-    <lastmod>2019-10-21</lastmod>
+    <loc>http://ligiamunteanu.com/index.html</loc>
+    <lastmod>2019-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://rblnewspaper.ro/images/2.png</image:loc>
+      <image:loc>http://ligiamunteanu.com/images/ligia_munteanu.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://rblnewspaper.ro/images/1.png</image:loc>
+      <image:loc>http://ligiamunteanu.com/images/ligia_munteanu_televiziune.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://rblnewspaper.ro/images/3.png</image:loc>
+      <image:loc>http://ligiamunteanu.com/images/ligia_munteanu_lifestyle.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://rblnewspaper.ro/images/4.png</image:loc>
+      <image:loc>http://ligiamunteanu.com/images/ligia_munteanu_evenimente.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://rblnewspaper.ro/images/scroll-doar-sageti.gif</image:loc>
+      <image:loc>http://ligiamunteanu.com/images/ligia_munteanu_despre_mine.gif</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://rblnewspaper.ro/assets/dot.mov</loc>
-    <lastmod>2019-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/e5656ac5-f7d1-42d4-9c27-8909c37f6b43_01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/e5656ac5-f7d1-42d4-9c27-8909c37f6b43_02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/e5656ac5-f7d1-42d4-9c27-8909c37f6b43_03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/e5656ac5-f7d1-42d4-9c27-8909c37f6b43_04.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/e5656ac5-f7d1-42d4-9c27-8909c37f6b43_05.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/e5656ac5-f7d1-42d4-9c27-8909c37f6b43_06.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/e5656ac5-f7d1-42d4-9c27-8909c37f6b43_07.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/eb57a797-ca53-4b77-acf4-19c79f550377_01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/eb57a797-ca53-4b77-acf4-19c79f550377_02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/eb57a797-ca53-4b77-acf4-19c79f550377_03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/eb57a797-ca53-4b77-acf4-19c79f550377_04.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/eb57a797-ca53-4b77-acf4-19c79f550377_05.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/eb57a797-ca53-4b77-acf4-19c79f550377_06.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/eb57a797-ca53-4b77-acf4-19c79f550377_07.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/eb57a797-ca53-4b77-acf4-19c79f550377_08.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/bvb-(websize)-203_02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/bvb-(websize)-203_03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/bvb-(websize)-203_04.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/bvb-(websize)-203_05.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/bvb-(websize)-203_06.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/bvb-(websize)-203_07.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/bvb-(websize)-203_08.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/bvb-(websize)-203_09.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/bvb-(websize)-203_10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/patrat_rad_3383_01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/patrat_rad_3383_02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/patrat_rad_3383_03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/patrat_rad_3383_04.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/patrat_rad_3383_05.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/patrat_rad_3383_06.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/patrat_rad_3383_07.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ligiamunteanu.com/images/patrat_rad_3383_08.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
