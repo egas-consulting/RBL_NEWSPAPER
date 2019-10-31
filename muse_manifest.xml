@@ -1,40 +1,125 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rblnewspaper.ro" resolutions="1x" timestamp="1571641498931">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RBL.ro" resolutions="1x" timestamp="1572508312730">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4223778526" ref="index"/>
+    <file name="site_global.css" crc="3920580071"/>
+    <file name="index.css" crc="304226676" ref="index"/>
   </folder>
   <folder name="assets">
-    <file name="dot.mov" crc="274772812" seo="true" mt="1571596018000"/>
+    <file name="photo_movie.mov" crc="328240561" seo="true" mt="1572453578000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="310584261" ref="index"/>
-    <file name="webpro.js" crc="4059564322" ref="index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:tablet>index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="phone>index:tablet>index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:tablet>index:index"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="2.png" crc="4121626230" seo="true" ref="index">
+    <file name="scroll-doar-sageti.gif" crc="190600464" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1.png" crc="3992413043" seo="true" ref="index">
+    <file name="summit_picture_1_bw.png" crc="191893701" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3.png" crc="464092716" seo="true" ref="index">
+    <file name="summit_picture_1.png" crc="418829325" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="4.png" crc="457441447" seo="true" ref="index">
+    <file name="summit_picture_4_bw.png" crc="221803519" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="scroll-doar-sageti.gif" crc="190600464" seo="true" ref="index">
+    <file name="summit_picture_4.png" crc="3960583303" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="summit_picture_2_bw.png" crc="419549482" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="summit_picture_2.png" crc="145804908" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="summit_picture_3_bw.png" crc="30845809" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="summit_picture_3.png" crc="3851547990" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photos.gif" crc="4185056231" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rbl_logo.png" crc="3952542884" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index"/>
   </folder>
-  <file name="index.html" crc="467585038" seo="true" mt="1571641442179" redirect="true"/>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="401789568" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="38482118" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4243901244" seo="true" mt="1572508242690" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3831884631" ref="phone>index"/>
+      <file name="nomq_index.css" crc="177891987" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="50819864" seo="true" mt="1572507493489" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3767688852" seo="true" mt="1572506378926" redirect="true"/>
 </manifest>
