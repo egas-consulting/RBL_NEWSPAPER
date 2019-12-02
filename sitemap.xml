@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://RBL.ro/index.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://RBL.ro/phone/index.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://RBL.ro/tablet/index.html"/>
+    <image:image>
+      <image:loc>http://RBL.ro/images/1348x600px-01_fara_buton.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://RBL.ro/images/scroll-doar-sageti.gif</image:loc>
     </image:image>
@@ -38,7 +41,16 @@
       <image:loc>http://RBL.ro/images/photos.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://RBL.ro/images/rbl_logo.png</image:loc>
+      <image:loc>http://RBL.ro/images/pag2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://RBL.ro/images/pag%201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://RBL.ro/images/pag%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://RBL.ro/images/pag%203_1.png</image:loc>
     </image:image>
   </url>
   <url>
