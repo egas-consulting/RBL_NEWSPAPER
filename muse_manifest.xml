@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RBL.ro" resolutions="1x" timestamp="1575379561115">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RBL.ro" resolutions="1x" timestamp="1575379816043">
   <folder name="css">
     <file name="site_global.css" crc="4020703471"/>
-    <file name="index.css" crc="171356583" ref="index"/>
+    <file name="index.css" crc="3896977667" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="photo_movie.mov" crc="328240561" seo="true" mt="1572453578000"/>
@@ -105,5 +105,5 @@
     </folder>
     <file name="index.html" crc="4148021361" seo="true" mt="1575376891797" redirect="true"/>
   </folder>
-  <file name="index.html" crc="475284189" seo="true" mt="1575379553196" redirect="true"/>
+  <file name="index.html" crc="320269319" seo="true" mt="1575379795062" redirect="true"/>
 </manifest>
