@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RBL.ro" resolutions="1x" timestamp="1575376373417">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RBL.ro" resolutions="1x" timestamp="1575376556567">
   <folder name="css">
     <file name="site_global.css" crc="3920580071"/>
     <file name="index.css" crc="3849252432" ref="index"/>
@@ -105,5 +105,5 @@
     </folder>
     <file name="index.html" crc="10420754" seo="true" mt="1575376020952" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3918794962" seo="true" mt="1575376363387" redirect="true"/>
+  <file name="index.html" crc="216547321" seo="true" mt="1575376538417" redirect="true"/>
 </manifest>
