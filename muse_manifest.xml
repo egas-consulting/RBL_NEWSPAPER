@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RBL.ro" resolutions="1x" timestamp="1575892537767">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RBL.ro" resolutions="1x" timestamp="1575893913914">
   <folder name="css">
     <file name="site_global.css" crc="4020703471"/>
     <file name="index.css" crc="481719515" ref="index"/>
@@ -24,10 +24,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="scroll-doar-sageti.gif" crc="190600464" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -60,8 +61,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="summit_picture_1.png" crc="418829325" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -94,8 +101,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="summit_picture_4.png" crc="3960583303" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -128,8 +141,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="summit_picture_2.png" crc="145804908" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -162,6 +181,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="summit_picture_3.png" crc="3851547990" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
@@ -179,8 +201,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="photos.gif" crc="4185056231" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -227,7 +255,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="pag 3405x825.png" crc="469181005" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
@@ -261,10 +288,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1348x600px-01_fara_buton282x125.png" crc="327738392" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="1348x600px-01_fara_buton651x289.png" crc="97697289" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -295,20 +318,40 @@
     <file name="1348x600px-01_fara_buton483x214.png" crc="316767870" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="1348x600px-01_fara_buton409x182.png" crc="3871845858" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1348x600px-01_fara_buton353x157.png" crc="217259186" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1348x600px-01_fara_buton273x121.png" crc="4026475889" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1348x600px-01_fara_buton233x104.png" crc="347436636" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1348x600px-01_fara_buton208x93.png" crc="3969615686" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="3807628859" ref="tablet>index"/>
+      <file name="index.css" crc="458232238" ref="tablet>index"/>
       <file name="nomq_index.css" crc="4023767123" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="3915723590" seo="true" mt="1575892435540" redirect="true"/>
+    <file name="index.html" crc="4209685025" seo="true" mt="1575893371338" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3961379781" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4182040146" ref="phone>index"/>
+      <file name="index.css" crc="3825464270" ref="phone>index"/>
+      <file name="nomq_index.css" crc="401151033" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="304771726" seo="true" mt="1575892495582" redirect="true"/>
+    <file name="index.html" crc="3999904226" seo="true" mt="1575893862245" redirect="true"/>
   </folder>
   <file name="index.html" crc="43708015" seo="true" mt="1575892385369" redirect="true"/>
 </manifest>
