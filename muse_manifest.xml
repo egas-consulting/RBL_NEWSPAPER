@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RBL.ro" resolutions="1x" timestamp="1576774569901">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RBL.ro" resolutions="1x" timestamp="1576781346107">
   <folder name="css">
-    <file name="site_global.css" crc="3920580071"/>
-    <file name="index.css" crc="4019184780" ref="index"/>
+    <file name="site_global.css" crc="4020703471"/>
+    <file name="index.css" crc="36944939" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="photo_movie.mov" crc="328240561" seo="true" mt="1572453578000"/>
@@ -354,17 +354,17 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="522231032" ref="tablet>index"/>
-      <file name="nomq_index.css" crc="804770" ref="tablet>index"/>
+      <file name="index.css" crc="128999998" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="3887925827" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="344625401" seo="true" mt="1576774427704" redirect="true"/>
+    <file name="index.html" crc="4099356379" seo="true" mt="1576781236075" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4021893250" ref="phone>index"/>
-      <file name="nomq_index.css" crc="159669378" ref="phone>index"/>
+      <file name="index.css" crc="4178642465" ref="phone>index"/>
+      <file name="nomq_index.css" crc="16114276" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4150496690" seo="true" mt="1576774527860" redirect="true"/>
+    <file name="index.html" crc="176975235" seo="true" mt="1576781260394" redirect="true"/>
   </folder>
-  <file name="index.html" crc="81477613" seo="true" mt="1576774333340" redirect="true"/>
+  <file name="index.html" crc="4069123687" seo="true" mt="1576781211664" redirect="true"/>
 </manifest>
