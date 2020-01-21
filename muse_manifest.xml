@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RBL.ro" resolutions="1x" timestamp="1579259510180">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RBL.ro" resolutions="1x" timestamp="1579590550491">
   <folder name="css">
     <file name="site_global.css" crc="3920580071"/>
-    <file name="index.css" crc="4076460074" ref="index"/>
+    <file name="index.css" crc="43301295" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="photo_movie.mov" crc="328240561" seo="true" mt="1572453578000"/>
@@ -354,17 +354,17 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="4003430530" ref="tablet>index"/>
-      <file name="nomq_index.css" crc="159456255" ref="tablet>index"/>
+      <file name="index.css" crc="285055808" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="3771018684" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="4186704516" seo="true" mt="1579259409029" redirect="true"/>
+    <file name="index.html" crc="4219474386" seo="true" mt="1579590503168" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="5801991" ref="phone>index"/>
-      <file name="nomq_index.css" crc="391178212" ref="phone>index"/>
+      <file name="index.css" crc="3883519970" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3994120254" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4045868411" seo="true" mt="1579259474554" redirect="true"/>
+    <file name="index.html" crc="167640543" seo="true" mt="1579590475752" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3911835742" seo="true" mt="1579259378541" redirect="true"/>
+  <file name="index.html" crc="4056110212" seo="true" mt="1579590197022" redirect="true"/>
 </manifest>
