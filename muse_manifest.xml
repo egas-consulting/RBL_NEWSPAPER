@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RBL.ro" resolutions="1x" timestamp="1579764948447">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RBL.ro" resolutions="1x" timestamp="1580117649540">
   <folder name="css">
     <file name="site_global.css" crc="3920580071"/>
     <file name="index.css" crc="4106327783" ref="index"/>
@@ -354,17 +354,17 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="3816668743" ref="tablet>index"/>
+      <file name="index.css" crc="438138719" ref="tablet>index"/>
       <file name="nomq_index.css" crc="4201837975" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="115745276" seo="true" mt="1579764826466" redirect="true"/>
+    <file name="index.html" crc="3990242739" seo="true" mt="1580117540142" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="4250040462" ref="phone>index"/>
       <file name="nomq_index.css" crc="3892833966" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="169472941" seo="true" mt="1579764902509" redirect="true"/>
+    <file name="index.html" crc="3975110256" seo="true" mt="1580117592200" redirect="true"/>
   </folder>
-  <file name="index.html" crc="443274201" seo="true" mt="1579764748468" redirect="true"/>
+  <file name="index.html" crc="4022720782" seo="true" mt="1580117520428" redirect="true"/>
 </manifest>
