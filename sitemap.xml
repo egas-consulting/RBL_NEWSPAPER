@@ -8,9 +8,6 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://RBL.ro/phone/index.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://RBL.ro/tablet/index.html"/>
     <image:image>
-      <image:loc>http://RBL.ro/images/1348x600px-01_fara_buton.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://RBL.ro/images/scroll-doar-sageti.gif</image:loc>
     </image:image>
     <image:image>
