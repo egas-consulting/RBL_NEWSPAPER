@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RBL.ro" resolutions="1x" timestamp="1583503100287">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RBL.ro" resolutions="1x" timestamp="1584006337665">
   <folder name="css">
     <file name="site_global.css" crc="3920580071"/>
-    <file name="index.css" crc="857908" ref="index"/>
+    <file name="index.css" crc="4095627539" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="photo_movie.mov" crc="328240561" seo="true" mt="1572453578000"/>
@@ -266,107 +266,107 @@
     <file name="pag 3_1.png" crc="3820060990" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="summit rbl_2020.jpg" crc="3923571522" seo="true" ref="index:tablet>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="summit rbl_2020740x303.jpg" crc="3875842181" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="summit rbl_2020439x180.jpg" crc="156961715" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="summit rbl_2020409x168.jpg" crc="172107842" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="summit rbl_2020380x156.jpg" crc="3827706538" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="summit rbl_2020353x145.jpg" crc="4187992284" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="summit rbl_2020320x131.jpg" crc="183602976" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="scroll-doar-sageti-crop-u2287.png" crc="4184689928" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="summit rbl_2020273x112.jpg" crc="371358227" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="scroll-doar-sageti-crop-u22872.png" crc="432986174" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="summit rbl_2020233x96.jpg" crc="4155519828" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="scroll-doar-sageti-crop-u22873.png" crc="4107436360" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="summit rbl_2020208x86.jpg" crc="4012946148" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="summit rbl_2020649x266.jpg" crc="278688155" seo="true" ref="tablet>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="summit rbl_2020602x247.jpg" crc="136666239" seo="true" ref="tablet>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="summit rbl_2020573x235.jpg" crc="434905561" seo="true" ref="tablet>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="summit rbl_2020532x218.jpg" crc="377879069" seo="true" ref="tablet>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="summit rbl_2020484x198.jpg" crc="4213664271" seo="true" ref="tablet>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="summit rbl_2020448x184.jpg" crc="3815858927" seo="true" ref="tablet>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="scroll-doar-sageti-crop-u2096.png" crc="96155306" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="summit rbl_2020375x154.jpg" crc="4073070178" seo="true" ref="tablet>index">
+    <file name="scroll-doar-sageti-crop-u20962.png" crc="3781213545" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner rbl.png" crc="442813724" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="scroll-doar-sageti-crop-u20962.png" crc="3781213545" seo="true" ref="tablet>index">
+    <file name="banner rbl439x196.png" crc="442131325" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner rbl409x182.png" crc="3832528549" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner rbl380x170.png" crc="23523095" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner rbl353x158.png" crc="188144148" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner rbl320x143.png" crc="3843525851" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner rbl273x122.png" crc="3786169702" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner rbl233x104.png" crc="69197521" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner rbl208x93.png" crc="3975646157" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner rbl649x289.png" crc="197837285" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner rbl602x268.png" crc="404741290" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner rbl573x255.png" crc="4004350733" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner rbl532x237.png" crc="4160659880" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner rbl483x215.png" crc="2048262" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner rbl448x200.png" crc="4107203441" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner rbl378x168.png" crc="4034291121" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner rbl375x167.png" crc="510409372" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="505984680" ref="tablet>index"/>
-      <file name="nomq_index.css" crc="3891960413" ref="tablet>index"/>
+      <file name="index.css" crc="3983613326" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="3924287822" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="4153238417" seo="true" mt="1583502947968" redirect="true"/>
+    <file name="index.html" crc="18314981" seo="true" mt="1584006097296" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3925189424" ref="phone>index"/>
-      <file name="nomq_index.css" crc="353518420" ref="phone>index"/>
+      <file name="index.css" crc="247765575" ref="phone>index"/>
+      <file name="nomq_index.css" crc="28681609" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="205055894" seo="true" mt="1583503046140" redirect="true"/>
+    <file name="index.html" crc="4259801295" seo="true" mt="1584006301371" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3932726081" seo="true" mt="1583502887793" redirect="true"/>
+  <file name="index.html" crc="388992138" seo="true" mt="1584005574077" redirect="true"/>
 </manifest>
